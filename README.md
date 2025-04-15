@@ -38,16 +38,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS3-Styling-blue?logo=css3)
 ![LaTeX](https://img.shields.io/badge/LaTeX-typesetting-blue?logo=latex)
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarloZambaldo&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-</p>
-
-
 ---
 
 ## 📫 Connect with Me
